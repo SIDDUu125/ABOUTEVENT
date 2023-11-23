@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+    outline:2px;
+    border:0;
+}
+body {
+    height: 100vbh;
+    background-color:rgb(247, 242, 242);
+    font-family:Areal,Helvetica,sens-serif;
+    display:grid;
+    place-items:center;
+}
+h1 {
+    margin-bottom:2rem;
+}
+form {
+    display:flex;
+    flex-direction:column;
+    width: 24rem;
+    gap:2rem;
+}
+
+input,
+select,
+textarea {
+    padding:1rem;
+    background:transparent;
+    border: 3px solid black;
+}
+textarea{
+    height:4rem;
+}
+button {
+    width:6rem;
+    padding:1.5rem;
+    cursor:pointer;
+    background:blue;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
